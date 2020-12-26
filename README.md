@@ -17,12 +17,11 @@ _Foi feito com muito entusiasmo e carinho :)_
 
 ### Imagens Demonstrativas
 <p align="center">
-  <img src="https://github.com/raissaqueiroz/outburguer/blob/master/screenshots/tela1.jpeg" width=400 height=200/>
-  <img src="https://github.com/raissaqueiroz/outburguer/blob/master/screenshots/tela2.jpeg" width=400 height=200/>
+  <img src="https://github.com/raissaqueiroz/helpper-webapp/blob/master/screeshots/home.png" width=400 height=200/>
+  <img src="https://github.com/raissaqueiroz/helpper-webapp/blob/master/screeshots/register-1.png" width=400 height=200/>
 </p>
 <p align="center">
-  <img src="https://github.com/raissaqueiroz/outburguer/blob/master/screenshots/tela3.jpeg" width=400 height=200/>
-  <img src="https://github.com/raissaqueiroz/outburguer/blob/master/screenshots/tela4.jpeg" width=400 height=200/>
+  <img src="https://github.com/raissaqueiroz/helpper-webapp/blob/master/screeshots/register-2.png" width=400 height=200/>
 </p>
 
 ## Guia Rápido de Instalação
