@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif !important;
+}
+footer {
+    height: 10% !important;
+    width: 100%;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    background: #1A0F0F;
+    padding: 10px 5% !important;
+    text-align: center !important;
+}
+
+h3 {
+    color: #FFF;
+    font-size: 0.9rem !important;
+}

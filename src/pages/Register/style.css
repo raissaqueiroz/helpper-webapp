@@ -1,0 +1,40 @@
+
+section {
+    height: 100vh !important
+}
+article {
+    height: 75% !important;
+    background: #ECE9E9;
+    padding: 20px 5% !important
+}
+
+.btn-primaru {
+    background: #AEEA0A !important;
+}
+
+.RFS-StepMain .active {
+    background-color: #AEEA0A !important;
+    
+}
+.RFS-StepMain .completed {
+    background-color: #95A4BA !important;
+    
+    
+}
+.register-form .form-group input {
+    height: 45px !important
+}
+
+.btn-light-blue {
+    background: #78909c !important;
+    color: #FFF !important
+}
+.btn-prox {
+    background: #AEEA0A !important;
+
+    
+}
+
+button {
+    font-weight: 700 !important;
+}

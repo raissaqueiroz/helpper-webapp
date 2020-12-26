@@ -1,0 +1,13 @@
+
+section {
+    height: 100vh !important
+}
+article {
+    height: 75% !important;
+    background: #ECE9E9;
+    padding: 20px 5% !important
+}
+
+.btn-primaru {
+    background: #AEEA0A !important;
+}
